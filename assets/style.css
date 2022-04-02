@@ -1,0 +1,15 @@
+.images .image{
+    border: 1px solid black;
+    background-origin: padding-box;
+}
+.images .image{
+    width: 80%;
+    height: 600px;
+    background-image: url(https://i.pinimg.com/originals/69/d5/fe/69d5fed4b68abeb9873bb1a45c4acbb4.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px;
+    margin: 30px 50px 40px;
+    padding: 30px 50px 20px;
+
+}
